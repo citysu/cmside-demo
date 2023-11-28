@@ -6,7 +6,6 @@ After deleting `cmside-x86_64.AppImage`,  `~/.config/cmside` and `~/.cache/cmsid
 
 ## Screenshots
 
-![screenshot-library](Screenshot Library.png)
+![screenshot-library](https://github.com/citysu/cmside-demo/blob/main/screenshot-library.png)
 
-![screenshot-comic-reader](Screenshot Comic Reader.png)
-
+![screenshot-comic-reader](https://github.com/citysu/cmside-demo/blob/main/screenshot-comic-reader.png)
